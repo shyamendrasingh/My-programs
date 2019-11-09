@@ -17,8 +17,8 @@ int countOccurences(char* str,char word)
 // Driver code 
 int main() 
 { 
-    char str[] = "GeeksforGeeks A computer science portal for geeks"; 
-    char word = 'c' ;
+    char str[] = " this is just a line wrriten by me  select a letter in this line "; 
+    char word = 't' ;
     cout << countOccurences(str, word); 
     return 0; 
 } 
